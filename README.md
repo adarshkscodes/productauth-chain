@@ -27,14 +27,6 @@ A full-stack decentralized application (dApp) that allows **manufacturers to reg
 
 ---
 
-## 📸 Demo Preview
-
-| Register Product | Scan QR to Verify |
-|------------------|------------------|
-| ![register](screenshots/register.png) | ![scan](screenshots/scan.png) |
-
----
-
 ## 🧠 Tech Stack
 
 | Layer         | Tech Used                               |
